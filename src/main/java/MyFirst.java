@@ -4,5 +4,6 @@ public class MyFirst{
 		System.out.println("Hello, ------!");
 		System.out.println("Hello, ------!");
 		System.out.println("Hello, everyBody!");
+		System.out.println("Hello, people everyBody!");
 	}
 }
