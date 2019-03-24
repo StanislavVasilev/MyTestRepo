@@ -7,7 +7,7 @@ public class MyFirstTestClass {
     System.out.println("Hello, world!");
   }
 
-  public void hello() {
+  public void greetings() {
     System.out.println("Hello, Stanislav!");
     System.out.println("Hello, my program");
   }
